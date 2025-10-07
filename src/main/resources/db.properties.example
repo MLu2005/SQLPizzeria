@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/pizza_ordering?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+db.user=YOUR_USER
+db.pass=YOUR_PASSWORD
